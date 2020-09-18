@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+
+  <siteMapNode url="" title="" description="" roles ="*">
+    <siteMapNode url="~/CharPanel/ManChar.aspx" title="Manage Char"  description="" roles="User"/>
+    <siteMapNode url="~/CharPanel/Donate.aspx" title="Donate"  description="" roles="User"/>
+    <siteMapNode url="~/CharPanel/Support.aspx" title="Support"  description="" roles="User"/>
+  </siteMapNode>
+  
+</siteMap>
